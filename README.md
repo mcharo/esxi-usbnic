@@ -8,4 +8,5 @@
 
 ## Demo
 
+The gif has been sped up but the timestamps within the image are accurate.
 ![Demo of script](esxi.gif)
