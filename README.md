@@ -1,5 +1,7 @@
 # Integrating the VMware USB NIC Fling driver into ESXi 7.x
 
+Honestly, you should probably use [ESXi-Customizer-PS](https://github.com/VFrontDe/ESXi-Customizer-PS), but if your use case is this one and you've run into an error similar to `Export-ESXImageProfile : [WinError 10054] An existing connection was forcibly closed by the remote host` then give this a shot.
+
 ## Requirements
 
 - `VMware.ImageBuilder` 7.x PowerShell module
